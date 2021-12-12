@@ -6,7 +6,13 @@ has a browser with proxy, n64 emulator, calculator, code editor and much more co
 
 Please note this is in beta right now so there may be bugs
 
+if something goes wrong let me know i will respond to any issues within 1-2 days
+
+please tell me if there is any sugestions
+
+
 must be installed to C drive to function and sent to desktop
+
 
 if you dont now how I have very detailed instructions down below with 7 simple steps READ CAREFULY
 
