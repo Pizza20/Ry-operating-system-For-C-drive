@@ -8,17 +8,21 @@ Please note this is in beta right now so there may be bugs
 
 if something goes wrong let me know i will respond to any issues within 1-2 days
 
-please tell me if there is any sugestions
-
-
-must be installed to C drive to function and sent to desktop
-
-
-if you dont now how I have very detailed instructions down below with 7 simple steps READ CAREFULY
+please read instructions down below to install with 7 simple steps READ CAREFULY OR IT WILL NOT FUNCTION!!!
 
 
 
 =============================================================================================================================
+
+you will need:
+
+a PC
+
+Internet
+
+and to download the zip file
+
+
 ![Screenshot 2021-12-11 223934](https://user-images.githubusercontent.com/91672714/145703077-0de22e26-2d0b-43e5-a519-06ac9f751662.png)
 
 
