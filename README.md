@@ -8,7 +8,9 @@ Please note this is in beta right now so there may be bugs
 
 must be installed to C drive to function and sent to desktop
 
-if you dont now how I have very detailed instructions down below with 7 simple steps
+if you dont now how I have very detailed instructions down below with 7 simple steps READ CAREFULY
+
+
 
 =============================================================================================================================
 ![Screenshot 2021-12-11 223934](https://user-images.githubusercontent.com/91672714/145703077-0de22e26-2d0b-43e5-a519-06ac9f751662.png)
