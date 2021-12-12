@@ -5,7 +5,9 @@ safe and sucure
 has a browser with proxy, n64 emulator, calculator, code editor and much more coming soon
 
 Please note this is in beta right now so there may be bugs
+
 must be installed to C drive to function and sent to desktop
+
 if you dont now how I have very detailed instructions down below
 
 =============================================================================================================================
