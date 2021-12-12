@@ -1,6 +1,6 @@
 The Ry operating system
 
-safe and sucure
+safe and secure, you can close out at any time with the esc key
 
 has a browser with proxy, n64 emulator, calculator, code editor and much more coming soon
 
