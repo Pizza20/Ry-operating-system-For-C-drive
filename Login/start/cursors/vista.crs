@@ -1,9 +1,0 @@
-﻿[AppStarting]
-Path=Vista (Working).ani
-
-[Wait]
-Path=Vista (Busy).ani
-
-[Crosshair]
-Path=Vista (Precision Select).cur
-
